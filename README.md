@@ -1,0 +1,1 @@
+Allows to fetch signals from gamepad and send it through serial port
